@@ -1,0 +1,40 @@
+{
+  "name": "pdf-parser-nodejs",
+  "version": "1.0.0",
+  "description": "An illustrative example for https://fourzerofour.pw/pdf-parser-nodejs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/fourzerofour/pdf-parser-nodejs.git"
+  },
+  "keywords": [
+    "pdf",
+    "stream",
+    "parse",
+    "architect"
+  ],
+  "author": "Tom (Four Zero Four)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/fourzerofour/pdf-parser-nodejs/issues"
+  },
+  "homepage": "https://gitlab.com/fourzerofour/pdf-parser-nodejs#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "danfojs": "^1.1.2",
+    "fast-csv": "^4.3.6",
+    "fs": "^0.0.1-security",
+    "fs-js": "^1.0.6",
+    "glob": "^8.0.3",
+    "pdf2json": "^3.0.1",
+    "pdfreader": "^1.4.0",
+    "shell.js": "^4.3.1",
+    "shelljs": "^0.8.5"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}

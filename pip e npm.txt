@@ -1,0 +1,6 @@
+pip install pandas 
+pip install glob
+pip install subprocess 
+pip install pathlib
+
+npm install glob fs pdfreader
